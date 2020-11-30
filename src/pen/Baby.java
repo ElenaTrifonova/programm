@@ -1,6 +1,6 @@
 package pen;
-
 import pen.Penguin;
+
 public class Baby extends Penguin {
 
 	public Baby(String age, String sex, String color){
