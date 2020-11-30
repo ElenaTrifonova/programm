@@ -1,7 +1,7 @@
 package persons;
 
-import Person;
-import Clothes;
+import persons.Person;
+import clo.*;
 
 public class Leader extends Person{
 
