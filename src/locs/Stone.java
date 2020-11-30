@@ -1,0 +1,13 @@
+package locs;
+
+public class Stone extends SideGallery {
+	public Stone(int w, int h){
+		super(w, h);
+	}
+	
+	@Override
+	public void describe(){
+		System.out.println("Галерея просто каменнная.");
+	}
+
+}
