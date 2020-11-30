@@ -1,5 +1,7 @@
 package clo;
 
+import clo.Clothes;
+
 public class Coat extends Clothes{
 
 	public Coat(String m, String t){
