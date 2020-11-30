@@ -1,4 +1,5 @@
 package locs;
+import locs.Location.*;
 
 public class Gold extends SideGallery {
 	public Gold(int w, int h){
