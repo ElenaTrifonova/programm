@@ -94,7 +94,7 @@ public class Main{
         gn1.move();
 
         Sweater sw = new Sweater("шерсть", "свитер");
-        Coat c3 = new Coat("мех", "куртка")4
+        Coat c3 = new Coat("мех", "куртка");
         sw.fall();
         c3.fall();
         sw.cut();
