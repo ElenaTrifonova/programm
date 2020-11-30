@@ -1,5 +1,7 @@
 package feel;
 
+import feel.Feelings;
+
 public class Sound implements Feelings {
 
     private String [] s;
