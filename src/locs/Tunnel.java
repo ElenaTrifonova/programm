@@ -1,5 +1,5 @@
 package locs;
-import Location;
+import locs.Location;
 
 public class Tunnel extends Location {
   
@@ -22,7 +22,7 @@ public class Tunnel extends Location {
      if (mi<2){
     	System.out.println("Высота туннеля: ", getWeight(), " Ширина туннеля: ", getHeight());
     }
-    else if (mi>=2) && (mi<=4){
+    else if ((mi>=2) && (mi<=4)){
     	System.out.println("Высота туннеля: ", getWeight()-0,5 , " Ширина туннеля: ", getHeight()-0,5 );
     }
     else {
