@@ -1,4 +1,5 @@
 package locs;
+import locs.Location.*;
 
 public class Stone extends SideGallery {
 	public Stone(int w, int h){
