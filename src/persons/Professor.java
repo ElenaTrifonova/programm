@@ -1,7 +1,7 @@
 package persons;
 
-import Person;
 
+import persons.Person;
 
 public class Professor extends Person {
 
