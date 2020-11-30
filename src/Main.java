@@ -1,5 +1,5 @@
 import clo.Clothes.*;
-import feel.Feeling.*;
+import feel.Feelings.*;
 import gn.Gnomes.*;
 import pen.Penguin.*;
 import locs.Location.*;
