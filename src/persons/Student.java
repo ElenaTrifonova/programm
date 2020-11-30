@@ -1,6 +1,6 @@
-s
+package persons;
 
-import Person;
+import persons.Person;
 
 
 public class Student extends Person {
