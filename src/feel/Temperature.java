@@ -1,5 +1,7 @@
 package feel;
 
+import feel.Feelings;
+
 public class  Temperature implements Feelings {
 
 	@Override
