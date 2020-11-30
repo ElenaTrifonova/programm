@@ -1,5 +1,5 @@
 package locs;
-import Location;
+import locs.Location;
 
 public class SideGallery extends Location {
 
