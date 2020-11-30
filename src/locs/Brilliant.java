@@ -1,4 +1,5 @@
 package locs;
+import locs.Location.*;
 
 
 public class Brilliant extends SideGallery {
