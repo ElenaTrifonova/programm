@@ -1,4 +1,5 @@
 package pen;
+import pen.Penguin;
 
 public class Adult extends Penguin {
 
@@ -7,7 +8,7 @@ public class Adult extends Penguin {
 	}
     
     @Override
-    public run(){
+    public void run(){
     	if (countPen==1){
     	    System.out.println("Мимо пробегает 1 пингвин.");
         }
@@ -19,7 +20,7 @@ public class Adult extends Penguin {
         }
     }
 
-	public bump(){
+	public void bump(){
 		System.out.println("Пингвин №",getNumber()," задевает каменную глыбу.");
 	}
 }
