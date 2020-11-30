@@ -1,4 +1,5 @@
 package clo;
+import clo.Clothes;
 
 public class Sweater extends Clothes{
 
