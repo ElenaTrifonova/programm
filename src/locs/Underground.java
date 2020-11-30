@@ -1,5 +1,5 @@
 package locs;
-import Location;
+import locs.Location;
 
 public class Undeground extends Location {
 	public Undeground(int w, int h){
