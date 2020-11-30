@@ -1,8 +1,9 @@
 package gn;
+import gn.Gnomes; 
 
 public class Sleepy implements Gnomes{
 	private int age;
-	private String[] ty;
+	private String ty;
 
     public Sleepy(int age, String ty){
         this.age = age;
@@ -29,7 +30,7 @@ public class Sleepy implements Gnomes{
     public String getTy(){
 		return ty;
 	}
-	public void setTy(String[] ty){
+	public void setTy(String ty){
 		this.ty = ty;
 	}
 
