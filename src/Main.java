@@ -1,3 +1,10 @@
+import clo.Clothes.*;
+import feel.Feeling.*;
+import gn.Gnomes.*;
+import pen.Penguin.*;
+import locs.Location.*;
+import persons.Person.*;
+
 public class Main{
 	public static void main(String args[]){
 
